@@ -1,0 +1,10 @@
+{
+	"name": "helperbird",
+	"private": true,
+	"engines": {
+		"node": ">=0.8.0"
+	},
+	"scripts": {
+		"start": "docker-compose up -d"
+	}
+}
