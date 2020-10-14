@@ -1,5 +1,5 @@
 .DS_Store
 wp-content/plugins/akismet/
-wp-content/plugins/akismet/*.*
-wp-content/themes/*/*.*
+wp-content/plugins/akismet/**
+wp-content/themes/**
 
