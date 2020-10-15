@@ -1,6 +1,6 @@
 <?php
 /**
- * Make your website accessible to everyone in seconds. Accelerate your business with Helperbirds accessibility widget without re-structuring your website’s existing code.
+ * Make your more website accessible in seconds. Accelerate your business with Helperbirds accessibility widget without re-structuring your website’s existing code.
  *
  * @link              https://www.helperbird.com/products/widget
  * @since             1.0.0
@@ -9,7 +9,7 @@
  * @wordpress-plugin
  * Plugin Name:       Accessibility Widget by Helperbird
  * Plugin URI:        https://www.helperbird.com/products/widget
- * Description:       Make your website accessible to everyone in seconds. Accelerate your business with Helperbirds accessibility widget without re-structuring your website’s existing code.
+ * Description:       Make your website more accessible in seconds. Accelerate your business with Helperbirds accessibility widget without re-structuring your website’s existing code.
  * Version:           1.0.0
  * Author:            Helperbird
  * Author URI:        https://www.helperbird.com/
