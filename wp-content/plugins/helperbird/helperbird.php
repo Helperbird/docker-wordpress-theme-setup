@@ -31,7 +31,7 @@ add_filter( 'wp_footer', 'inject_helperbird' );
  */
 function inject_helperbird() {
 
-	wp_enqueue_script( 'widget.js', plugins_url( '/assets/javascript/widget/widget.js', __FILE__ ));
+	wp_enqueue_script( 'widget.js', plugins_url( '/trunk/javascript/widget/widget.js', __FILE__ ));
 
 	echo'<helperbird-widget></helperbird-widget>';
 
