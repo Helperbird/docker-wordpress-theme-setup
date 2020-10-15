@@ -1,8 +1,11 @@
-# docker-wordpress-theme-setup
+# Introduction
+Helperbird wordpress plugin is your all in one extension, that gives you the features to make the web more accessible and make you more productive. Providing you features like text to speech, ad removal, dyslexia support, dictation, immersive reader, overlays, reader mode, and much more.
 
-This repository was created as part of a tutorial on how to [setup a local development environment to build a WordPress theme](https://davidyeiser.com/tutorial/docker-wordpress-theme-setup).
 
-## Installation
+
+
+# Contribution
+## Getting Started
 
 If you don’t have Docker and Docker Compose installed follow the steps outlined in the blog post linked above.
 
@@ -24,4 +27,19 @@ Then in your browser:
 http://localhost:8000/
 ````
 
-The aforementioned blog post has more information.
+
+
+
+
+
+# Questions
+
+For questions and support please the github issues tab.
+
+
+
+# License
+
+[MIT](http://opensource.org/licenses/MIT)
+
+Copyright (c) 2015-present
